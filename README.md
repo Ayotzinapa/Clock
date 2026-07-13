@@ -4,7 +4,7 @@
 A lightweight Windows console clock written entirely in x86-64 Assembly using NASM and the Win32 API.
 ### IF something isn't working feel free to edit this project.
 
-## Build
+# Build
 
 ### Requirements
 
